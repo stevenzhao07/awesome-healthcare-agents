@@ -1,0 +1,19 @@
+```yaml
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as below."
+title: "Awesome Healthcare Agents: Curated Resources for AI Agents in Healthcare"
+authors:
+    given-names: "Muhammad Turab"
+version: "1.0"
+date-released: "2025-10-13"
+url: "https://github.com/turab45/awesome-healthcare-agents"
+license: "MIT"
+keywords:
+  - healthcare
+  - ai
+  - agents
+  - awesome-list
+  - llm
+  - rag
+  - confidential-computing
+```
