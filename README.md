@@ -1,7 +1,3 @@
-# Awesome Healthcare Agents/Multi-Agents
-
-Curated list of AI Agents, frameworks, datasets, and research papers focused on Healthcare.
-
 # 🧠 Awesome Healthcare Agents & Multi-Agents
 > A curated list of **AI Agents, frameworks, datasets, and research papers** focused on **Healthcare and Medicine**.
 
