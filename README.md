@@ -31,6 +31,8 @@ This repository brings together the **best open-source projects, research, and t
 Frameworks and libraries for building autonomous or semi-autonomous agents used in healthcare.
 
 - [LangChain](https://github.com/hwchase17/langchain) — Framework for developing context-aware LLM-driven agents.
+- [n8n](https://github.com/n8n-io/n8n) — Visual AI workflow builder platform.
+- [OpenAI AgentiKit](https://openai.com/index/introducing-agentkit/) - Tools for building, deploying, and optimizing AI agents.
 - [CrewAI](https://github.com/joaomdmoura/crewAI) — Multi-agent orchestration for task collaboration.
 - [AutoGen](https://github.com/microsoft/autogen) — Multi-agent conversation framework by Microsoft.
 - [LlamaIndex](https://github.com/run-llama/llama_index) — Data framework for retrieval-augmented applications.
@@ -117,7 +119,7 @@ Please ensure resources are **open-source or research-accessible** (no commercia
 ## 📜 License
 This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.  
 
-*Curated by [Muhammad Tahir Korejo](https://github.com/yourusername)*  
+*Curated by [Muhammad Turab](https://github.com/turab45)*  
 *Inspired by the open-source healthcare AI community.*
 
 ---
