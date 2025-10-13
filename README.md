@@ -64,11 +64,7 @@ Agents and models applied to medical imaging, pathology, and diagnostics.
 ---
 
 ## 🔍 Medical RAG Pipelines
-Retrieval-Augmented Generation pipelines tailored for biomedical and clinical data.
-
-- [PubMedGPT](https://github.com/epfl-dlab/PubMedGPT) — GPT fine-tuned on PubMed abstracts.
-- [MedRAG](https://github.com/medicalai/medrag) — Healthcare RAG system with PubMed and MIMIC.
-- [FAISS + PubMed](https://github.com/facebookresearch/faiss) — Vector search index commonly used in biomedical RAG setups.
+Retrieval-Augmented Generation pipelines tailored for biomedical and clinical data. (TBA)
 
 ---
 
@@ -78,8 +74,6 @@ Frameworks ensuring privacy, explainability, and compliance with healthcare regu
 - [TensorFlow Privacy](https://github.com/tensorflow/privacy) — Differential privacy for ML models.
 - [PySyft](https://github.com/OpenMined/PySyft) — Federated learning and privacy-preserving computation.
 - [Intel SGX SDK](https://github.com/intel/linux-sgx) — Confidential computing toolkit for sensitive data.
-- [Azure Confidential ML](https://learn.microsoft.com/en-us/azure/confidential-computing/confidential-machine-learning) — Secure ML environment using TEEs.
-
 ---
 
 ## 📚 Key Research Papers
