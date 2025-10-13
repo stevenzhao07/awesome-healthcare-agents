@@ -2,10 +2,8 @@
 
 Curated list of AI Agents, frameworks, datasets, and research papers focused on Healthcare.
 
-# 🧠 Awesome Healthcare Agents [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
-> A curated list of **AI Agents, frameworks, datasets, and research papers** focused on **Healthcare and Medicine**.  
-> Inspired by [awesome](https://github.com/sindresorhus/awesome) lists.
+# 🧠 Awesome Healthcare Agents & Multi-Agents
+> A curated list of **AI Agents, frameworks, datasets, and research papers** focused on **Healthcare and Medicine**.
 
 ---
 
