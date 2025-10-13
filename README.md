@@ -77,10 +77,11 @@ Frameworks ensuring privacy, explainability, and compliance with healthcare regu
 ---
 
 ## 📚 Key Research Papers
-- *Large Language Models Encode Clinical Knowledge* — *Singhal et al., 2023 (Med-PaLM)*  
-- *Self-Refining Agents for Clinical Reasoning* — *Zhang et al., 2024*  
-- *Federated Learning for Healthcare* — *Li et al., Nature Machine Intelligence, 2020*  
-- *Explainable AI in Medicine: A Review* — *Holzinger et al., WIREs Data Mining, 2022*
+- *GMAT: Grounded Multi-agent Clinical Description Generation for Text Encoder in Vision-Language MIL for Whole Slide Image Classification* — *Ngoc Bui Lam Quang et al., 2025 (ELAMI, MICCAI 2025)*  
+- *NeuroReport-MS: Multi-scale Agentic AI for Automated Clinical Report Generation in Multiple Sclerosis* - *K Belghiti et al., 2025 (ELAMI, MICCAI 2025)*
+- *SCOPE: Label Extraction of Stroke Diagnosis from Unstructured Medical Reports Using Retrieval-Augmented Generation* - *M Aktar et al., 2025 (ELAMI, MICCAI 2025)*
+- more detailed papers in [key research papers](key-research-papers)
+
 
 ---
 
