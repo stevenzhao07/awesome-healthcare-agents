@@ -112,7 +112,7 @@ Please ensure resources are **open-source or research-accessible** (no commercia
 If you use or reference this repository in your research, please cite it as:
 
 ```bibtex
-@misc{Korejo2025AwesomeHealthcareAgents,
+@misc{turab2025AwesomeHealthcareAgents,
   author       = {Muhammad Turab},
   title        = {Awesome Healthcare Agents: Curated Resources for AI Agents in Healthcare},
   year         = {2025},
