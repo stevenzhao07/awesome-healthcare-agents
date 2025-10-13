@@ -119,7 +119,7 @@ If you use or reference this repository in your research, please cite it as:
   howpublished = {\url{https://github.com/turab45/awesome-healthcare-agents}},
   note         = {Version 1.0},
 }
-
+```
 
 ## 📜 License
 This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.  
