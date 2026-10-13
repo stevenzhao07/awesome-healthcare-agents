@@ -186,6 +186,9 @@ Tools and standards that help make healthcare-agent systems safer, auditable, an
 | [PySyft](https://github.com/OpenMined/PySyft) | Privacy-preserving ML | Federated and privacy-preserving computation for sensitive data. |
 | [SMART on FHIR](https://smarthealthit.org/) | App authorization | OAuth-based launch and authorization framework for EHR apps. |
 | [TensorFlow Privacy](https://github.com/tensorflow/privacy) | Differential privacy | Differential privacy tooling for ML training. |
+| [ai-a3-laws](https://github.com/stevenzhao07/ai-a3-laws) | Runtime constraints | Deterministic authority / autonomy / accountability checks over an autonomous decision, returning a violation list; usable as a gate inside an agent loop. Zero-dependency CLI (2026). |
+| [ai-governance-checklist](https://github.com/stevenzhao07/ai-governance-checklist) | Governance checklist | Governance self-check with model-card and data-card templates covering human oversight, fairness, provenance and monitoring. Zero-dependency CLI (2026). |
+| [delivery-guard](https://github.com/stevenzhao07/delivery-guard) | Pre-release gates | 17 deterministic pre-delivery gates plus a dual SHA-256 provenance ledger, making "was this artefact reviewed" answerable. Zero-dependency CLI (2026). |
 
 ---
 
