@@ -1,7 +1,7 @@
 name: link-check
 
-# 这个 job 存在的唯一目的：让「README 里放了不存在的仓」这件事变红。
-# 它必须能失败——否则它不配被设为必需检查。负对照见仓库外用探针（塞一条死链即 405 拒合）。
+# 这个 job 存在的唯一目的：让「README 里放了不存在的仓」变红。
+# 它必须能失败——否则不配被设为必需检查；负对照见「塞一条死链即 405 拒合」的外用探针。
 on:
   pull_request:
   push:
@@ -9,6 +9,7 @@ on:
 
 permissions:
   contents: read
+  pull-requests: write
 
 jobs:
   link-check:
@@ -21,4 +22,6 @@ jobs:
       - name: Verify every GitHub repo link in README resolves
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python tools/check_links.py
+          PR_NUMBER: ${{ github.event.pull_request.number }}
+          REPO_SLUG: ${{ github.repository }}
+        run: python .github/link-check/check_links.py
